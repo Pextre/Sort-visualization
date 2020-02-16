@@ -13,7 +13,7 @@ function setup() {
   for(let i = 0; i < list.length;i++){
     list[i] = random(height);
   } 
-  frameRate(10);
+  frameRate(20);
 
 }
 

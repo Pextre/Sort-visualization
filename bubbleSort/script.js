@@ -1,6 +1,6 @@
 let list = [];
 let current = []
-let w = 5;
+let w = 3;
 function swap(arr, i, j) {
   let aux = arr[j];
   arr[j] = arr[i];
@@ -14,7 +14,7 @@ function setup() {
   for(let i = 0; i < list.length;i++){
     list[i] = random(height);
   } 
-  frameRate(5);
+  frameRate(20);
   console.log(list.length);
 
 }
