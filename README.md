@@ -1,2 +1,2 @@
 # Sort-visualization
-https://pextre.github.io/Sort-visualization/
+https://danpeixoto.github.io/Sort-visualization/
